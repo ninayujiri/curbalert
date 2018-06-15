@@ -185,7 +185,7 @@ class NewPost extends Component {
 			})
 			.catch(err => {
 				this.setState({
-					flash: err.message
+					flash: ''
 				});
 				setTimeout(() => {
 					this.setState({
@@ -195,7 +195,7 @@ class NewPost extends Component {
 			});
 		}else{
 			this.setState({
-				flash: "Please add a tag to continue"
+				flash: "..."
 			})
 		}
 	};
