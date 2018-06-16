@@ -5,13 +5,13 @@
   display: flex; }
 
 .button.is-success {
-  background-color: #77ab59; }
+  background-color: #50a970; }
 
 .button.is-danger {
   background-color: #ef5411; }
 
 a {
-  color: #77ab59; }
+  color: #50a970; }
 
 .fade-enter {
   opacity: 0;
