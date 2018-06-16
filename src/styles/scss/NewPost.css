@@ -20,3 +20,6 @@
   .modal-card {
     display: inline-block;
     overflow: scroll; } }
+
+.tags {
+  padding-right: 10px; }
