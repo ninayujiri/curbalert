@@ -10,7 +10,11 @@ In order to foster a healthy community, users who contribute items/locations are
 ## Final Product
 
 ![Home Page](https://github.com/ninayujiri/curbalert/blob/production/docs/home.png?raw=true)
+
+
 ![Add Feature](https://github.com/ninayujiri/curbalert/blob/production/docs/add.gif?raw=true)
+
+
 ![Claim Feature](https://github.com/ninayujiri/curbalert/blob/production/docs/claim.gif?raw=true)
 
 
